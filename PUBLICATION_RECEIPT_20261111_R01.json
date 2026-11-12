@@ -1,0 +1,90 @@
+{
+  "schema": "tristan.public.continuity.publication_receipt/v1",
+  "date_local": "2026-11-11",
+  "source_authority": "Owner expressly requested a public general health and continuity statement across public platforms; private diagnosis and prognosis excluded",
+  "scope": "Connected GitHub repositories and read-only inspections of available deployment platforms",
+  "canonical_statement": {
+    "url": "https://github.com/tardifmorencytristan-glitch/tristan-public/blob/main/HEALTH_AND_CONTINUITY.md",
+    "raw_url": "https://raw.githubusercontent.com/tardifmorencytristan-glitch/tristan-public/main/HEALTH_AND_CONTINUITY.md",
+    "raw_http_status": 200,
+    "sha256_utf8": "56ee90a4e45ada2e835d914f7d026f2637dc5336280315c5bbc7062b8e17c9a7",
+    "fr_marker_present": true,
+    "en_marker_present": true
+  },
+  "github": {
+    "account": "tardifmorencytristan-glitch",
+    "visible_repositories": 45,
+    "public_repositories_count": 15,
+    "readmes_crosslinked_count": 15,
+    "readmes_crosslinked_repositories": [
+      "Tristan",
+      "tristan-cvcd",
+      "tristan-ffwt",
+      "tristan-oak",
+      "tristan-anti-ego",
+      "tristan-proof",
+      "tristan-bench",
+      "tristan-physics",
+      "tristan-materials",
+      "tristan-education",
+      "tristan-sdk-python",
+      "tristan-sdk-js",
+      "tristan-cli",
+      "tristan-web",
+      "tristan-public"
+    ],
+    "readback": "PASS: 15/15 links from each independent verification node"
+  },
+  "verification": {
+    "independent_devices": 3,
+    "method": "Public HTTPS raw content GET, marker checks, SHA-256 of canonical source and 15 README crossref checks",
+    "canonical_results": [
+      "HTTP_200_SHA256_MATCH_FR_EN_PASS",
+      "HTTP_200_SHA256_MATCH_FR_EN_PASS",
+      "HTTP_200_SHA256_MATCH_FR_EN_PASS"
+    ],
+    "readme_results": [
+      "15/15_PASS",
+      "15/15_PASS",
+      "15/15_PASS"
+    ],
+    "security": "Public strings and responses only; no credentials, local paths, IPs or clinical information copied"
+  },
+  "other_surfaces": {
+    "base44": {
+      "apps_found": 3,
+      "live_public_apps": 0,
+      "status": "NOT_PUBLISHED_NO_DEPLOY"
+    },
+    "vercel": {
+      "observed_projects": 0,
+      "status": "NO_PROJECT_RETURNED"
+    },
+    "higgsfield": {
+      "websites_found": 0,
+      "status": "NO_WEBSITE_RETURNED"
+    },
+    "render": {
+      "workspaces_found": 1,
+      "services_checked": false,
+      "status": "WORKSPACE_SELECTION_REQUIRED"
+    },
+    "social_media": {
+      "status": "NOT_VERIFIED_NO_POSTS"
+    }
+  },
+  "claim_boundaries": [
+    "Repository content available on public GitHub is not proof of a deployed standalone website",
+    "Readable HTTP 200 is not proof of public discoverability or search indexing",
+    "Device verification is not a Jarvis mission acknowledgment",
+    "No diagnosis, prognosis, personal medical records or user secrets published",
+    "No GitHub Actions or CI run",
+    "No merge or production deployment performed in this iteration"
+  ],
+  "next_actions": [
+    "Discover explicitly authorized public channels and their exact owner",
+    "Reuse canonical bilingual text instead of duplicating personal data",
+    "Require live readback and correct site/repo identity before declaring a new platform published",
+    "Preserve correction/removal path and platform-specific rollback"
+  ]
+}
